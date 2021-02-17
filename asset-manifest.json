@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/css/main.00ee94b7.chunk.css",
+    "main.js": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/main.e051a626.chunk.js",
+    "main.js.map": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/main.e051a626.chunk.js.map",
+    "runtime-main.js": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/runtime-main.fb71cd16.js",
+    "runtime-main.js.map": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/runtime-main.fb71cd16.js.map",
+    "static/js/2.eb57123a.chunk.js": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/2.eb57123a.chunk.js",
+    "static/js/2.eb57123a.chunk.js.map": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/2.eb57123a.chunk.js.map",
+    "static/js/3.1564f1f8.chunk.js": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/3.1564f1f8.chunk.js",
+    "static/js/3.1564f1f8.chunk.js.map": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/3.1564f1f8.chunk.js.map",
+    "index.html": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/index.html",
+    "static/css/main.00ee94b7.chunk.css.map": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/css/main.00ee94b7.chunk.css.map",
+    "static/js/2.eb57123a.chunk.js.LICENSE.txt": "/Kian-Ashrafganjouei.github.io/mosnter-hunter/static/js/2.eb57123a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb71cd16.js",
+    "static/js/2.eb57123a.chunk.js",
+    "static/css/main.00ee94b7.chunk.css",
+    "static/js/main.e051a626.chunk.js"
+  ]
+}
